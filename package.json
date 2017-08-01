@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-js-joda",
+  "version": "1.0.0",
+  "description": "js-joda eslint configuration",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "js-joda",
+    "javascript",
+    "styleguide"
+  ],
+  "author": "phueper, pithu",
+  "homepage": "https://js-joda.github.io/",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "eslint": "^4.3.0"
+  }
+}
