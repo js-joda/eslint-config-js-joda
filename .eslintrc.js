@@ -7,27 +7,28 @@ module.exports = {
     },
     'rules': {
         'indent': [
-            2,
+            'error',
             4,
             {
                 'SwitchCase': 1
             }
         ],
         'quotes': [
-            2,
+            'error',
             'single',
             'avoid-escape'
         ],
+        'prefer-template': 'error',
         'linebreak-style': [
-            2,
+            'error',
             'unix'
         ],
         'semi': [
-            2,
+            'error',
             'always'
         ],
         'eqeqeq': [
-            2,
+            'error',
             'smart'
         ],
         'no-var': 'error',
