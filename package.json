@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-js-joda",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "js-joda eslint configuration",
   "main": "index.js",
   "scripts": {
